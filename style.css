@@ -1,0 +1,64 @@
+
+h1{
+   color: blue;
+   text-indent: 500px;
+   
+
+}
+.div_1{
+       
+    border: 3px solid;
+    font-size: 25px;
+    position: absolute;
+    top: 15%;
+    left: 30%;
+    width: 400px;
+    background-color: gray;
+}
+.div_2{
+font-size: 25px;
+border: 3px solid;
+position: absolute;
+top: 65%;
+left: 30%;
+width: 400px;
+float: right;
+background-color: gray;
+}   
+
+.div_3{   
+font-size: 25px;
+border: 3px solid;
+position: absolute;
+top: 120%;
+left: 30%;
+width: 400px;
+background-color: gray;
+   
+}
+.partie{
+    border: 3px solid;
+    text-align: right;
+    top: -10%;
+    left: 65%;
+    background-color: lightcoral;
+    
+    
+} 
+.partie1{
+    text-align: right;
+    border: 3px solid;
+    
+    top: -10%;
+    left: 65%;
+    background-color: lightskyblue;
+} 
+.partie2{
+    text-align: right;
+    border: 3px solid;
+    
+    top: -10%;
+    left: 65%;
+    height: inherit;
+    background-color: olive;
+}
